@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 Passionate Frontend Developer crafting sleek, high-performance web experiences.<br>📚 Currently mastering advanced React patterns, performance optimization, and scalable architecture.<br>🎨 Passionate about elegant UI, seamless UX, and meaningful interactions.<br>🤝 Open to collaborating on React, UI/UX, and creative web projects.<br>🌱 Exploring advanced animations, design systems, and modern frontend architecture.<br>💡 Ask me about React, JavaScript, UI design, responsive layouts, and smooth user experiences.<br>⚡ Fun fact : I enjoy turning complex ideas into clean and intuitive interfaces.
 
 
